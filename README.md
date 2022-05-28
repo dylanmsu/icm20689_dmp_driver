@@ -3,7 +3,7 @@ ICM20689 DMP Driver
 
 # update: Too many people ask me for the source code... I'm usualy more physical and the source code is released directly.
 
-Invensense new generation gyroscope ICM20689 online no driver, the official ICM20789 version on the G55 board demo, but very complex and difficult to use, I based on this version to delete and modify out a convenient driver code on the STM32.
+Invensense new generation gyroscope ICM20689 has only one online driver, the official ICM20789 version on the G55 board demo, but its very complex and difficult to use, I based on this version to delete and modify out a convenient driver code on the STM32.
 
 ## Platform parameters
 
